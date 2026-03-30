@@ -176,7 +176,7 @@ Dashboard features:
 - KPI indicators
 - COVID phase labour pressure comparison
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](Power%20BI%20SSH.png)
 
 ## Tableau Interactive Dashboard
 The Tableau dashboard extends the analysis with interactive filtering and structural segmentation.
