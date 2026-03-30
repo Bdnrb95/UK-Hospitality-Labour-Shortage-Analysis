@@ -14,7 +14,7 @@ The workflow demonstrates a full analytics pipeline using:
 - MySQL (exploratory data analysis)
 - Power BI (dashboard modelling)
 - Tableau (interactive visualisation)
-- GitHub (documentation & project packaging)
+
 
 
 ## Project Objectives
