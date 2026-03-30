@@ -37,9 +37,9 @@ This project combines domain experience with technical analysis to explore struc
 
 Three publicly available UK datasets were combined:
 
-| Revenue Index | Sector performance relative to baseline level (index = 100) |
-| Hospitality Revenue | Accommodation + food & beverage services revenue (£ millions) |
-| Vacancy Data | Workforce shortages across hospitality sector |
+Revenue Index:             Sector performance relative to baseline level (index = 100)
+Hospitality Revenue:       Accommodation + food & beverage services revenue (£ millions)
+Vacancy Data :             Workforce shortages across hospitality sector
 
 Coverage period: 2008 - 2024
 
@@ -187,6 +187,8 @@ Features include:
 - Vacancy pressure trend analysis
 - COVID phase comparison
 - Peak labour demand indicators
+
+Click the image below to open the live interactive dashboard:
 
 ![Tableau Dashboard](images/tableau_dashboard.png)
 
