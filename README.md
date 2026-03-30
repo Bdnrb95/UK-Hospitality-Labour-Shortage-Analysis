@@ -190,7 +190,7 @@ Features include:
 
 Click the image below to open the live interactive dashboard:
 
-![Tableau Dashboard]([images/tableau_dashboard.png](https://public.tableau.com/app/profile/bence.bodnar/viz/Hospitality_Project_17748823376360/Dashboard1n))
+![Tableau Dashboard]([Tableau SSH.png](https://public.tableau.com/app/profile/bence.bodnar/viz/Hospitality_Project_17748823376360/Dashboard1n))
 
 ## Key Findings
 
